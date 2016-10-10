@@ -1,0 +1,26 @@
+{
+  "name": "jquery-load-plus-plus",
+  "homepage": "https://github.com/Temoto-kun/jquery-load-plus-plus",
+  "authors": [
+    "TheoryOfNekomata <allan.crisostomo@outlook.com>"
+  ],
+  "description": "Improved jQuery template loading.",
+  "main": "src/index.js",
+  "keywords": [
+    "jQuery",
+    "template",
+    "loading",
+    "AJAX"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "imagesloaded": "^4.1.1"
+  }
+}
