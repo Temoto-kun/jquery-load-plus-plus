@@ -1,5 +1,5 @@
 {
-  "name": "jquery-load-plus-plus",
+  "name": "@theoryofnekomata/jquery-load-plus-plus",
   "version": "1.0.0",
   "description": "Improved jQuery template loading.",
   "main": "src/index.js",

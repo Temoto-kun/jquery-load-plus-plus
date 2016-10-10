@@ -10,7 +10,7 @@
         jQuery = window.jQuery;
     }
 
-    jQuery.fn.loadTemplate = function (templatePath, cb) {
+    jQuery.fn.loadPlusPlus = function (templatePath, cb) {
         var $this = jQuery(this),
             $phantom = jQuery('<div>')
             .appendTo('body')
