@@ -1,12 +1,12 @@
 (function () {
     var jQuery;
 
-    if (!!require) {
+    if (typeof require === 'function') {
         jQuery = require('jquery');
         require('imagesloaded');
     }
 
-    if (!!window) {
+    if (window !== null && typeof window !== 'undefined') {
         jQuery = window.jQuery;
     }
 
